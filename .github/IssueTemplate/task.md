@@ -1,11 +1,14 @@
 ---
 name: 🚀 New Task
 about: Use for Art, Audio, Code, UI, or Docs.
-title: "[TASK] "
+title: Task Name
 ---
-## 🎯 Goal
-- **Task/Issue:** (e.g., "Implement Player Jump" or "Design HUD")
-##✅ To Do ##
+## 🎯 Task
+Description here
+
+## ✅ To Do
 - [ ] Task 1
 - [ ] Task 2
-- **Visual Evidence:** (Drop a Screenshot/GIF here!)
+    
+## Visual Evidence: 
+(Drop a Screenshot/GIF here!)
