@@ -1,7 +1,8 @@
 ---
-name: 🚀 New Task
-about: Use for Art, Audio, Code, UI, or Docs.
-title: Task Name
+name: 💻 Code Task
+about: Standard C# or Unity logic task.
+title: "[CODE] "
+labels: ["code"]
 ---
 ## 🎯 Task
 Description here
