@@ -1,15 +1,16 @@
 ---
 name: 💻 Code Task
-about: Standard C# or Unity logic task.
+about: Logic, Systems, and C# Scripts.
 title: "[CODE] "
 labels: ["code"]
 ---
 ## 🎯 Task
-Description here
+(Describe the system or logic being implemented)
 
 ## ✅ To Do
-- [ ] Task 1
-- [ ] Task 2
-    
-## 📷 Visual Evidence: 
-Drop a Screenshot/GIF here!
+- [ ] Write logic
+- [ ] Unit test / Debug
+- [ ] Comment code
+    
+## 📷 Visual Evidence: 
+(Screenshot of Inspector or Debug Log)
