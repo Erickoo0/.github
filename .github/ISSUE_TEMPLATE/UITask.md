@@ -1,5 +1,5 @@
 ---
-name: 🎨 UI/UX Task
+name: 🎨 UI Task
 about: Menus, HUD, and Canvas elements.
 title: "[UI] "
 labels: ["ui"]
