@@ -13,4 +13,4 @@ labels: ["code"]
 - [ ] Comment code
     
 ## 📷 Visual Evidence: 
-(Screenshot of Inspector or Debug Log)
+(Screenshot or Gif Here!)
