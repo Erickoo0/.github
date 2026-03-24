@@ -1,16 +1,17 @@
 ---
-name: ⚔️ Art & VFX Task
-about: Models, Shaders, and Particles.
+name: ⚔️ Art
+about: Sprites, 3D models, textures, assets, and animations.
 title: "[ART] "
-labels: ["art", "vfx / polish"]
+labels: ["art"]
 ---
 ## 🎯 Task
-(Describe the visual asset or effect)
+(Describe the visual asset or animation)
 
 ## ✅ To Do
-- [ ] Import & Setup Prefab
-- [ ] Apply Materials/Shaders
-- [ ] Test in Lighting Environment
+- [ ] Create Sprite
+- [ ] Create Animation Sheet
+- [ ] Import in Unity
+- [ ] Hook up the logic
     
 ## 📷 Visual Evidence: 
 (Screenshot or Gif Here!)
