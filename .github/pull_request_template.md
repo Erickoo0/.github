@@ -1,32 +1,17 @@
-# 🎗️ Summary
-- **Task: #**
-- **Name of Task**
-- **Category:** (e.g., Gameplay / Systems / UI / Art)
---------------------------------------
-# 📺 Visual Proof
-> [!IMPORTANT]
-> Gameplay Gifs and Screenshots of Feature Below!.
+## 🎯 Objectives
+- **Notion Task:** [Paste Link Here]
+- **Summary:** Quick 1-sentence description of what this PR accomplishes.
 
-> (Drag and drop media here)
--------------------------------------
-# 🏗️ System Architecture & Logic
-Briefly describe the "Brain" of this feature. How does it fit into the rest of the game?
+## 🛠️ Changes 
+- [ ] Feature/Fix: Brief detail...
+- [ ] Refactor: (e.g., Cleaned up interfaces in `QuestSystem`)
+- [ ] Optimization: (e.g., Reduced draw calls on Tilemap)
 
-### 🧱 Key Components
-- **`PlayerStats.cs`:** Manages health/stamina variables.
-- **`UIManager.cs`:**  Listens for stat changes to update the HUD
--------------------------------------
-# 💻 Technical Code Highlights
-### ⚡ Design Patterns & Architecture
-- **[Pattern Name]:** (e.g., Observer Pattern, State Machine, Singleton)
-- **Why:** (e.g., "Used a State Machine to keep player movement logic decoupled and easily expandable.")
-```csharp
-// Paste a small, high-impact snippet of the pattern in action
-```
-- **[Techy Term]:** (e.g., Object Pooling, Raycasting, Serialization, Coroutines)
-- **The Impact:** (e.g., "Leveraged Object Pooling for projectiles to prevent Garbage Collection spikes.")
-```csharp
-// Paste a snippet showing off your technical implementation
-```
+## 📺 Visual Proof
+> [!TIP]
+> Drag & drop a quick GIF or screenshot below so the progress is visible.
+(Media Here)
 
-
+## 💡 Dev Notes
+- **Key Pattern:** (e.g. Observer Pattern, State Machine)
+- **Obstacles:** (Optional: Any "gotchas" you ran into)
